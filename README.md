@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://ctfigueroa.com/)
 <h1 align="center">Hello 👋, I'm Carlos!</h1>
 <h3 align="center">An aspiring Front-End Developer</h3>
-<img align="center" alt="person" style="margin-left: auto; margin-right: auto;" src="githubGIF.gif"
+<img align="center" alt="person" src="githubGIF.gif"
 
 - 🌱 I’m currently learning **jQuery and TypeScript**
 
