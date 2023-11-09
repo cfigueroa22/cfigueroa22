@@ -3,7 +3,7 @@
 <h3 align="center">Front-End Developer</h3>
 <img align="center" alt="person" width="400" src="githubGIF.gif"
 
-- 🌱 I’m currently learning **React.js and TypeScript**
+- 🌱 I’m currently learning **C# and .NET**
 
 - 👨‍💻 All of my projects are available at [https://ctfigueroa.com/](https://ctfigueroa.com/)
 
